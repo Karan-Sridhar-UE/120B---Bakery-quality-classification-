@@ -45,7 +45,7 @@ The notebook **downloads the dataset automatically** (Step 0) — no manual uplo
 ├── Proposal_Bakery_Product_Quality_Classification.docx   # Project proposal
 ├── requirements.txt                        # Python dependencies
 ├── README.md                               # This file
-└── figures/                                # Output figures (generated after running)
+└── output/                                # Output figures (generated after running)
 ```
 
 ---
